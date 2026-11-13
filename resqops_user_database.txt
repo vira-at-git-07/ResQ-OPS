@@ -1,0 +1,8 @@
+992501030040@mail.jiit.ac.in,vishesh,VISHESH,STUDENT,0
+992501030040,vishesh,VISHESH ARORA,STUDENT,0
+admin,admin,admin,STUDENT,0
+992501030033@mail.jiit.ac.in,chirag,chirag nigam,STUDENT,0
+demo,demo,demo,SECURITY_OFFICER,5
+992501030046,divya,DIVYA,STUDENT,0
+pankaj,pankaj123,Pankaj Sir,FACULTY,1
+992501030049@mail.jiit.ac.in,riddhi,RIDDHI,STUDENT,0

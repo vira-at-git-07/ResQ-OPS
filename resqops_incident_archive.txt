@@ -1,0 +1,17 @@
+RESQ-37844 | Final Status: RESOLVED | Verified By: demo
+RESQ-72251,SecurityEmergency,Campus Wide,RESOLVED,demo,Thu Nov 05 23:37:47 IST 2026
+RESQ-21224,SecurityEmergency,Campus Wide,FALSE_ALARM,demo,05/11/2026 23:49
+RESQ-68901,FireEmergency,Academic Block 2,FALSE_ALARM,demo,05/11/2026 23:52
+RESQ-72651,FireEmergency,Academic Block 2,FALSE_ALARM,demo,05/11/2026 23:52
+RESQ-57327,SecurityEmergency,Academic Block 2,FALSE_ALARM,demo,05/11/2026 23:52
+RESQ-94914,SecurityEmergency,Campus Wide,FALSE_ALARM,demo,05/11/2026 23:53
+RESQ-20696,SecurityEmergency,Campus Wide,RESOLVED,Pankaj Sir,13/11/2026 17:53
+RESQ-17731,SecurityEmergency,Campus Wide,RESOLVED,Pankaj Sir,13/11/2026 17:53
+RESQ-21536,FireEmergency,Academic Block 2,RESOLVED,Pankaj Sir,13/11/2026 18:29
+RESQ-31876,ElectricalEmergency,Academic Block 2,FALSE_ALARM,Pankaj Sir,13/11/2026 18:33
+RESQ-18928,ElectricalEmergency,Academic Block 2,RESOLVED,Pankaj Sir,13/11/2026 18:33
+RESQ-65122,FireEmergency,Academic Block 2,RESOLVED,Pankaj Sir,13/11/2026 18:34
+RESQ-46945,MedicalEmergency,Academic Block 2,RESOLVED,Pankaj Sir,13/11/2026 18:34
+RESQ-67137,MedicalEmergency,Academic Block 2,RESOLVED,Pankaj Sir,13/11/2026 18:34
+RESQ-51279,FireEmergency,MPH,RESOLVED,Pankaj Sir,13/11/2026 18:58
+RESQ-13251,FireEmergency,MPH,RESOLVED,Pankaj Sir,13/11/2026 19:03
